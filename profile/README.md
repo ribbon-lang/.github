@@ -1,6 +1,5 @@
 <div align="center">
-    <img style="width: 20%" alt="Ribbon Emblem" src="images/emblem.svg"/>
-    <h3>Ribbon Language</h3>
+    <img style="width: 30%" alt="Ribbon Logo" src="images/logo_full.svg"/>
 </div>
 
 <hr/>
