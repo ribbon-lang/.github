@@ -1,5 +1,5 @@
 <div align="center">
-    <img style="width: 30%" alt="Ribbon Logo" src="../images/logo_full.svg"/>
+    <img style="width: 30%" alt="Ribbon Logo" src="https://raw.githubusercontent.com/ribbon-lang/.github/main/images/logo_full.svg"/>
 </div>
 
 An embeddable algebraic effects language with a focus on data polymorphism and structured allocation, motivated by deep extensibility in the style of Lua/LISP
